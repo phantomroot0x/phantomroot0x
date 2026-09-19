@@ -3,7 +3,7 @@
    COMPUTER SCIENCE STUDENT
    CYBERSECURITY • SOC • NETWORK SECURITY
 
-      [ GitHub ] [ LinkedIn: https://www.linkedin.com/in/muhammad-zubair-a30395309 ] [ phantomroot0x@gmail.com ]
+      [ GitHub: https://github.com/phantomroot0x] [ LinkedIn: https://www.linkedin.com/in/muhammad-zubair-a30395309 ] [ phantomroot0x@gmail.com ]
 ──────────────────────────────────────────────
 
 # 👋 Muhammad Zubair
