@@ -352,13 +352,16 @@ The objective is to understand **what happened, what evidence supports the findi
   <img src="https://img.shields.io/badge/SOC%20Training-111111?style=for-the-badge">
 </p>
 
-* **ISO/IEC 27001 Information Security Associate™** — SkillFront  
-  * Credential ID: `07151420182791`  
-  * [Verify Credential](https://www.skillfront.com/Badges/07151420182791)
-* **Certified Ethical Hacker (CEH)**
-* **Google Foundations of Cybersecurity**
-* **SOC Training & Practical Labs**
-* **Cybersecurity Internship Experience**
+# 🏆 Certifications & Training
+
+- **Google Foundations of Cybersecurity** — Coursera  
+  [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZIT667WM1XEN)
+
+- **ISO/IEC 27001 Information Security Associate™** — SkillFront  
+  [Verify Credential](https://www.skillfront.com/Badges/07151420182791)
+  
+- **SOC Training & Practical Labs**
+- **Cybersecurity Internship Experience**
 
 ---
 
