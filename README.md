@@ -354,14 +354,20 @@ The objective is to understand **what happened, what evidence supports the findi
 
 # 🏆 Certifications & Training
 
+# 🏆 Certifications & Training
+
+- **Certified Ethical Hacker (CEH)**
+  
 - **Google Foundations of Cybersecurity** — Coursera  
   [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZIT667WM1XEN)
 
 - **ISO/IEC 27001 Information Security Associate™** — SkillFront  
   [Verify Credential](https://www.skillfront.com/Badges/07151420182791)
-  
-- **SOC Training & Practical Labs**
-- **Cybersecurity Internship Experience**
+
+# 💼 Internship Experience
+
+- **SOC Internship — Completion Letter**  
+  [View Completion Letter](https://lnkd.in/p/dhGmchiH)
 
 ---
 
