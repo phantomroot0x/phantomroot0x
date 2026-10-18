@@ -371,6 +371,17 @@ The objective is to understand **what happened, what evidence supports the findi
 
 ---
 
+  # 🛡️ Hands-on Cybersecurity Labs
+
+### Hack The Box
+- **Cap** — PCAP analysis, Nmap enumeration, credential reuse, and Linux privilege escalation using `cap_setuid`.
+  [View on Hack The Box](ADD_YOUR_HTB_LINK_HERE)
+
+### TryHackMe
+- **Defensive Security Intro** — [View Room](https://tryhackme.com/room/defensivesecurityintroexp/congratulations?step=room-completion-share)
+- **Junior Security Analyst Intro** — [View Room](https://tryhackme.com/room/jrsecanalystintrouxo)
+  
+
 # 📊 GitHub Activity
 
 <p align="center">
