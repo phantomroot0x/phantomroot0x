@@ -1,21 +1,13 @@
-      MUHAMMAD ZUBAIR
-
-   COMPUTER SCIENCE STUDENT
-   CYBERSECURITY • SOC • NETWORK SECURITY
-
-      [ GitHub: https://github.com/phantomroot0x] [ LinkedIn: https://www.linkedin.com/in/muhammad-zubair-a30395309 ] [ phantomroot0x@gmail.com ]
-──────────────────────────────────────────────
-
 # 👋 Muhammad Zubair
 
 ### `phantomroot0x`
 
-**Computer Science Student · Cybersecurity · SOC · Network Security · DFIR**
+**BS Computer Science Student | Cybersecurity | SOC | Blue Team | Network Security | DFIR**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-000000?style=for-the-badge&logo=securityscorecard&logoColor=white">
-  <img src="https://img.shields.io/badge/DFIR-000000?style=for-the-badge&logo=files&logoColor=white">
+  <img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DFIR-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge&logo=wireshark&logoColor=white">
 </p>
 
@@ -28,102 +20,115 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Computer Science student** building practical cybersecurity skills through hands-on labs, technical projects, security investigations, and continuous experimentation.
+I'm a **Computer Science student at the University of Buner**, developing practical cybersecurity skills through hands-on security labs, technical projects, malware investigations, and security operations training.
 
-My primary interests are **SOC operations, network security monitoring, malware analysis, digital forensics, threat intelligence, and incident response**.
+My primary interests include:
 
-Rather than only learning security tools, I focus on understanding:
+- Security Operations Center (SOC)
+- Blue Team Operations
+- Network Security Monitoring
+- Threat Detection and Investigation
+- Malware Analysis
+- Digital Forensics and Incident Response (DFIR)
+- Threat Intelligence
+
+I focus on understanding the evidence behind security events, investigating suspicious activities, correlating security logs, identifying indicators of compromise (IOCs), and documenting technical findings.
+
+**My approach to cybersecurity:**
 
 ```text
-What happened?
-      ↓
-What evidence supports it?
-      ↓
-What does the security tool see?
-      ↓
-Is the activity malicious or benign?
-      ↓
-What indicators can be extracted?
-      ↓
-What should an analyst investigate next?
-      ↓
-How should the incident be documented?
+Observe Security Events
+        ↓
+Collect Evidence
+        ↓
+Analyze Activity
+        ↓
+Correlate Security Data
+        ↓
+Identify Indicators
+        ↓
+Assess Potential Impact
+        ↓
+Document Findings
+        ↓
+Recommend Response
 ```
 
 ---
 
-# 🛡️ Cybersecurity Focus
+## 🛡️ Cybersecurity Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Operations-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Threat%20Detection-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Malware%20Analysis-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Digital%20Forensics-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Incident%20Response-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Threat%20Intelligence-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SOC%20Operations-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Blue%20Team-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Threat%20Detection-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Malware%20Analysis-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/DFIR-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Incident%20Response-111111?style=flat-square">
 </p>
 
 ---
 
 # 🚀 Featured Security Projects
 
-## 🦠 Windows Malware Analysis & Incident Response
+## 🦠 1. Windows Malware Analysis & Incident Response
 
-**Repository:** [`windows-malware-analysis-ir`](https://github.com/phantomroot0x/windows-malware-analysis-ir)
+**Repository:** [windows-malware-analysis-ir](https://github.com/phantomroot0x/windows-malware-analysis-ir)
 
-A practical malware-analysis and incident-response project focused on investigating Windows PE samples using static analysis, dynamic analysis, behavioral investigation, IOC extraction, and threat-intelligence enrichment.
+A practical malware investigation project focused on analyzing suspicious Windows PE executables through static analysis, file examination, entropy analysis, threat intelligence, and IOC extraction.
 
-### 🔬 Investigation Areas
+### Investigation Areas
 
-* PE file triage
-* File metadata and hash analysis
-* Entropy analysis
-* Static analysis
-* Dynamic analysis
-* Behavioral investigation
-* IOC extraction
-* Sandbox analysis
-* Threat intelligence enrichment
-* Incident-response methodology
-* NIST-aligned response workflow
+- PE file structure and metadata analysis
+- File hashing and identification
+- String extraction and analysis
+- Section entropy analysis
+- Overlay analysis
+- Digital signature investigation
+- VirusTotal intelligence enrichment
+- MalwareBazaar sample investigation
+- IOC identification and documentation
+- Incident response methodology
 
-### 🧰 Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/PEStudio-111111?style=flat-square">
   <img src="https://img.shields.io/badge/VirusTotal-111111?style=flat-square">
   <img src="https://img.shields.io/badge/MalwareBazaar-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/ANY.RUN-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Windows%20Sysinternals-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/PowerShell-111111?style=flat-square">
 </p>
 
 ---
 
-## 🛡️ Suricata + Zeek Network Security Monitoring
+## 🛡️ 2. Suricata + Zeek Network Security Monitoring
 
-**Repository:** [`suricata-zeek-network-security-monitoring`](https://github.com/phantomroot0x/suricata-zeek-network-security-monitoring)
+**Repository:** [suricata-zeek-network-security-monitoring](https://github.com/phantomroot0x/suricata-zeek-network-security-monitoring)
 
-A hands-on Network Security Monitoring lab combining **Suricata IDS/IPS** and **Zeek** for network traffic analysis, detection, alert investigation, and event correlation.
+A hands-on Network Security Monitoring (NSM) project combining **Suricata IDS/IPS** and **Zeek** to monitor network traffic, detect suspicious activities, and investigate network events.
 
-### 🔎 What I Implemented
+### Implemented Activities
 
-* Suricata IDS/IPS deployment
-* Emerging Threats rule management
-* Custom detection rules
-* TLS-SNI detection
-* NFQUEUE-based IPS testing
-* `fast.log` investigation
-* `eve.json` analysis
-* Zeek HTTP analysis
-* DNS monitoring
-* TLS analysis
-* PCAP investigation
-* Nmap traffic analysis
-* Suricata and Zeek event correlation
+- Suricata IDS/IPS deployment
+- Emerging Threats rule management
+- Custom Suricata detection rules
+- TLS-SNI detection
+- NFQUEUE-based IPS testing
+- Network traffic inspection
+- `fast.log` investigation
+- `eve.json` event analysis
+- Zeek HTTP analysis
+- DNS monitoring
+- TLS traffic analysis
+- PCAP investigation
+- Nmap traffic analysis
+- Suricata and Zeek event correlation
 
-### 🧰 Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Suricata-111111?style=flat-square">
@@ -136,20 +141,20 @@ A hands-on Network Security Monitoring lab combining **Suricata IDS/IPS** and **
 
 ---
 
-## 🔐 PhishGuard
+## 🔐 3. PhishGuard
 
-**Repository:** [`phishguard`](https://github.com/phantomroot0x/phishguard)
+**Repository:** [phishguard](https://github.com/phantomroot0x/phishguard)
 
-A Python-based phishing-analysis project designed to evaluate suspicious messages and URLs using indicators such as sender information, keywords, and URL characteristics.
+A Python-based phishing analysis project designed to evaluate suspicious messages and URLs using indicators such as sender information, suspicious keywords, and URL characteristics.
 
-### 🔎 Concepts
+### Key Concepts
 
-* Phishing indicators
-* Suspicious URL analysis
-* Sender analysis
-* Keyword-based detection
-* Risk scoring
-* Security automation
+- Phishing indicators
+- Suspicious URL analysis
+- Sender information analysis
+- Keyword-based detection
+- Risk scoring
+- Basic security automation
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
@@ -158,18 +163,19 @@ A Python-based phishing-analysis project designed to evaluate suspicious message
 
 ---
 
-## 🔑 Password Strength Checker
+## 🔑 4. Password Strength Checker
 
-**Repository:** [`password-strength-checker`](https://github.com/phantomroot0x/password-strength-checker)
+**Repository:** [password-strength-checker](https://github.com/phantomroot0x/password-strength-checker)
 
-A Python security utility that evaluates password strength using entropy and character-diversity analysis.
+A Python security utility that evaluates password strength using entropy calculations, password length, and character diversity.
 
-### 🧰 Concepts
+### Key Concepts
 
-* Password entropy
-* Character diversity
-* Strength scoring
-* Python CLI development
+- Password entropy
+- Character diversity
+- Password strength evaluation
+- Python CLI development
+- Basic security principles
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
@@ -208,11 +214,13 @@ A Python security utility that evaluates password strength using entropy and cha
   <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PEStudio-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VirusTotal-111111?style=for-the-badge">
 </p>
 
 ### 🧠 Security Concepts
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TCP%2FIP-111111?style=flat-square">
   <img src="https://img.shields.io/badge/DNS-111111?style=flat-square">
   <img src="https://img.shields.io/badge/HTTP%2FHTTPS-111111?style=flat-square">
@@ -226,161 +234,116 @@ A Python security utility that evaluates password strength using entropy and cha
 
 ---
 
-# 🧪 Security Lab
+# 🧪 Security Lab Architecture
 
-My practical learning environment brings together multiple security technologies:
+My hands-on security environment combines network monitoring, intrusion detection, and centralized security event analysis.
 
 ```text
-                         ┌───────────────┐
-                         │   Kali Linux  │
-                         └───────┬───────┘
-                                 │
-                         Network Traffic
-                                 │
-                ┌────────────────┴────────────────┐
-                │                                 │
-        ┌───────▼────────┐                ┌───────▼───────┐
-        │    Suricata    │                │     Zeek      │
-        │    IDS / IPS   │                │      NSM      │
-        └───────┬────────┘                └───────┬───────┘
-                │                                 │
-                └────────────────┬────────────────┘
-                                 │
-                         Security Events
-                                 │
-                         ┌───────▼───────┐
-                         │     Wazuh     │
-                         │      SIEM     │
-                         └───────┬───────┘
-                                 │
-                   Detection → Investigation
-                                 │
-                         ┌───────▼───────┐
-                         │ Incident      │
-                         │ Response      │
-                         └───────────────┘
+                    ┌─────────────────┐
+                    │   Kali Linux    │
+                    │ Traffic Source  │
+                    └────────┬────────┘
+                             │
+                      Network Traffic
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+       ┌──────▼───────┐              ┌──────▼──────┐
+       │  Suricata    │              │    Zeek     │
+       │   IDS / IPS  │              │     NSM     │
+       └──────┬───────┘              └──────┬──────┘
+              │                             │
+              └──────────────┬──────────────┘
+                             │
+                      Security Events
+                             │
+                    ┌────────▼────────┐
+                    │     Wazuh       │
+                    │  SIEM / XDR     │
+                    └────────┬────────┘
+                             │
+                   Detection & Analysis
+                             │
+                    ┌────────▼────────┐
+                    │   Investigation │
+                    │   & Response    │
+                    └─────────────────┘
 ```
 
 ---
 
-# 🔎 Security Investigation Workflow
+# 🏆 Certifications & Training
 
-```text
-OBSERVE
-   ↓
-COLLECT EVIDENCE
-   ↓
-ANALYZE
-   ↓
-CORRELATE
-   ↓
-IDENTIFY INDICATORS
-   ↓
-ASSESS IMPACT
-   ↓
-DOCUMENT
-   ↓
-RESPOND
-```
+### Certifications
 
-The objective is not simply to generate an alert.
+- **ISO/IEC 27001 Information Security Associate™** — SkillFront (2026)
+  - [Verify Credential](https://www.skillfront.com/Badges/07151420182791)
 
-The objective is to understand **what happened, what evidence supports the finding, how different data sources relate to each other, and what an analyst should investigate next.**
+- **Google Foundations of Cybersecurity** — Coursera (2026)
+  - [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZIT667WM1XEN)
+
+### Professional Training
+
+- **SOC Training** — Secure Dev Labs
+- **SOC Internship Program — Batch III** — Secure Dev Labs
+- **Ethical Hacking & Penetration Testing Training** — Zynex Solutions
+
+---
+
+# 💼 Internship Experience
+
+### SOC Intern — Secure Dev Labs
+
+Completed a one-month SOC internship program involving practical security operations training and hands-on cybersecurity learning.
+
+**Focus Areas:**
+- Security Operations Center fundamentals
+- Security monitoring concepts
+- Threat detection
+- Security event investigation
+- SIEM fundamentals
+
+**Documentation:**
+[View Internship Completion Letter](https://lnkd.in/p/dhGmchiH)
+
+---
+
+# 🧪 Hands-on Cybersecurity Labs
+
+### Hack The Box
+
+**Cap** — Completed machine.
+
+Practical experience involving:
+
+- Nmap enumeration
+- Network traffic and PCAP analysis
+- Credential reuse investigation
+- Linux privilege escalation
+- Linux `cap_setuid` capability exploitation
+
+[View CAP Machine Achievement](https://labs.hackthebox.com/achievement/machine/3046138/351)
+
+### TryHackMe
+
+- **Defensive Security Intro** — [View Room](https://tryhackme.com/room/defensivesecurityintroexp/congratulations?step=room-completion-share)
+- **Junior Security Analyst Intro** — [View Room](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 ---
 
 # 📚 Currently Learning
 
-### 🛡️ Primary Focus
+My current development priorities are:
 
-<p>
-  <img src="https://img.shields.io/badge/SOC%20Operations-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Network%20Security%20Monitoring-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Malware%20Analysis-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Digital%20Forensics-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Incident%20Response-111111?style=flat-square">
-</p>
-
-### 🔬 Areas Under Development
-
-* Detection engineering
-* Threat intelligence
-* Digital forensics
-* Malware analysis
-* Web application security
-* Security automation
+- SOC operations and alert investigation
+- Network Security Monitoring
+- Detection engineering
+- Malware analysis
+- Digital forensics and incident response
+- Threat intelligence
+- Security automation
 
 ---
-
-# 🗺️ Security Learning Path
-
-```text
-                 COMPUTER SCIENCE
-                        │
-            ┌───────────┼───────────┐
-            │           │           │
-       Programming   Networking   Operating
-                                  Systems
-            │           │           │
-            └───────────┼───────────┘
-                        │
-                  CYBERSECURITY
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-         SOC       Network Security   DFIR
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-               Detection & Analysis
-                        │
-                 Investigation
-                        │
-                Incident Response
-                        │
-                    Blue Team
-```
-
----
-
-# 🏆 Certifications & Training
-
-<p>
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CEH-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SOC%20Training-111111?style=for-the-badge">
-</p>
-
-# 🏆 Certifications & Training
-
-# 🏆 Certifications & Training
-
-- **Certified Ethical Hacker (CEH)**
-  
-- **Google Foundations of Cybersecurity** — Coursera  
-  [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/ZIT667WM1XEN)
-
-- **ISO/IEC 27001 Information Security Associate™** — SkillFront  
-  [Verify Credential](https://www.skillfront.com/Badges/07151420182791)
-
-# 💼 Internship Experience
-
-- **SOC Internship — Completion Letter**  
-  [View Completion Letter](https://lnkd.in/p/dhGmchiH)
-
----
-
-  # 🛡️ Hands-on Cybersecurity Labs
-
-### Hack The Box
-- **Cap** — PCAP analysis, Nmap enumeration, credential reuse, and Linux privilege escalation using `cap_setuid`.
-  [View on Hack The Box](ADD_YOUR_HTB_LINK_HERE)
-
-### TryHackMe
-- **Defensive Security Intro** — [View Room](https://tryhackme.com/room/defensivesecurityintroexp/congratulations?step=room-completion-share)
-- **Junior Security Analyst Intro** — [View Room](https://tryhackme.com/room/jrsecanalystintrouxo)
-  
 
 # 📊 GitHub Activity
 
@@ -390,75 +353,36 @@ The objective is to understand **what happened, what evidence supports the findi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phantomroot0x&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=phantomroot0x&hide_border=true">
 </p>
 
 ---
 
 # 📌 Portfolio Roadmap
 
-| Project                          | Domain                 | Status        |
-| -------------------------------- | ---------------------- | ------------- |
-| 🦠 Windows Malware Analysis & IR | Malware / DFIR         | ✅ Completed   |
-| 🛡️ Suricata + Zeek NSM          | Network Security / SOC | ✅ Completed   |
-| 🧠 Threat Intelligence Analysis  | Threat Intelligence    | 🔄 Developing |
-| 🌐 Web Security Labs             | AppSec / VAPT          | 🔄 Developing |
-| 🐧 Linux Malware Analysis        | Malware / DFIR         | 🚧 Planned    |
+| Project | Domain | Status |
+|---|---|---|
+| Windows Malware Analysis & IR | Malware / DFIR | ✅ Completed |
+| Suricata + Zeek NSM | Network Security / SOC | ✅ Completed |
+| Threat Intelligence Analysis | Threat Intelligence | 🔄 Developing |
+| Web Security Labs | AppSec / VAPT | 🔄 Developing |
+| Linux Malware Analysis | Malware / DFIR | 🚧 Planned |
 
 ---
 
-# 🧠 My Learning Principle
-
-> **Don't just learn the tool. Understand the problem the tool is solving.**
-
-For every security investigation, I try to answer:
-
-* What am I detecting?
-* Why is it suspicious?
-* What evidence supports the finding?
-* What does the security tool actually see?
-* Can multiple sources be correlated?
-* What could cause a false positive?
-* What should an analyst investigate next?
-* How should the findings be documented?
-
----
-
-# 🎯 Career Direction
-
-I'm building toward practical defensive-security roles where **computer science fundamentals and security operations intersect**.
-
-```text
-SOC
- ↓
-Security Monitoring
- ↓
-Threat Detection
- ↓
-Investigation
- ↓
-Incident Response
- ↓
-Blue Team
-```
-
----
-
-# 🤝 Connect
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/phantomroot0x">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/muhammad-zubair-a30395309">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_EMAIL">
+  <a href="mailto:phantomroot0x@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
 
 <p align="center">
 
